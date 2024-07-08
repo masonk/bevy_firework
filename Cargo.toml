@@ -13,7 +13,7 @@ resolver = "2"
 bevy = "0.14.0"
 bytemuck = "1.14.3"
 rand = "0.8.5"
-bevy_utilitarian = "0.4"
+bevy_utilitarian = "0.5.0"
 bevy_xpbd_3d = { version = "0.4", features = ["serialize"], optional = true }
 serde = { version = "1.0.197", features = ["derive"] }
 
